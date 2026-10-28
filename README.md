@@ -95,6 +95,7 @@ with the shades moving faster. Score and lives carry over.
 
 ## Status
 
-Local only. Not published to GitHub — no publish approval has been
-given for this ROM, and none should be assumed from the earlier
-drum-sequencer publish.
+Published Oct 28, 2026 to the public GitHub repo
+https://github.com/yyre4/finnegans-wake-nes (main branch, no GitHub
+Pages — this is a NES ROM, not a web page). The XOX Tracker remains
+unpublished; that approval was for this Finnegans Wake ROM only.
